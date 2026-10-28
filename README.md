@@ -1,28 +1,30 @@
 
-<!-- ================================================== -->
-<!-- V1PED • PERSONAL DEVELOPER PROFILE                  -->
-<!-- ================================================== -->
+<!-- ===================================================== -->
+<!-- V1PED | DARK EDITORIAL PROFILE                        -->
+<!-- ===================================================== -->
 
-<!-- HEADER -->
-<p align="center">
-  <img
-    src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg"
-    width="100%"
-    alt="A quiet, cinematic workspace"
-  />
-</p>
-
+<!-- CINEMATIC HEADER -->
 <p align="center">
   <a href="https://github.com/v1ped">
     <img
-      src="https://img.shields.io/badge/GITHUB-v1ped-0D1117?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub profile"
+      src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg"
+      width="100%"
+      alt="A quiet cinematic workspace"
     />
   </a>
-  <img
-    src="https://img.shields.io/badge/BASED_ON-CURIOSITY-0D1117?style=flat-square&labelColor=0D1117"
-    alt="Driven by curiosity"
-  />
+</p>
+
+<!-- IDENTITY PILLS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Developer"/>
+  <img src="https://img.shields.io/badge/CREATIVE-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Creative"/>
+  <img src="https://img.shields.io/badge/INDEPENDENT_BUILDER-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Independent builder"/>
+</p>
+
+<p align="center">
+  <samp>v 1 p e d</samp>
+  <br/>
+  <sub>Building quietly. Thinking deliberately.</sub>
 </p>
 
 <!-- DISCORD PRESENCE -->
@@ -38,76 +40,141 @@
 
 ---
 
-## About
+<!-- ABOUT -->
+<p align="center">
+  <img src="https://img.shields.io/badge/01-ABOUT_ME-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="About me"/>
+</p>
 
-I'm a developer and creative builder interested in the intersection
-of software, automation, design, and online communities.
+<table>
+  <tr>
+    <td valign="top" width="68%">
 
-I build things to make digital experiences more useful, expressive,
-and thoughtfully designed — from Discord bots and community systems
-to Android applications.
+### A little about me.
 
-I value deliberate design, clean architecture, and projects that
-have a clear identity rather than unnecessary complexity.
+I'm an independent developer and creative builder drawn to the things that sit between **technology, design, and human experience**.
 
-- **Currently building:** NexPlay, a sports-focused Discord bot.
-- **Exploring:** Android development, automation, and application architecture.
-- **Creative interests:** Visual design, audio editing, video editing, and digital branding.
+I like building digital spaces that feel intentional — whether that's a Discord bot with its own identity, an Android application with a clean interface, or an automated system that makes a community work better.
+
+I'm interested in more than just making things function. I care about how they're structured, how they feel to use, and the small details that make a project memorable.
+
+    </td>
+    <td align="center" valign="middle" width="32%">
+      <img
+        src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*uqKapKinwX2-JHpSf8Xu6Q@2x.jpeg"
+        width="160"
+        alt="Personal profile artwork"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MINDSET-0D1117?style=flat-square&labelColor=0D1117" alt="Mindset"/>
+  <img src="https://img.shields.io/badge/DETAILS_MATTER-0D1117?style=flat-square&labelColor=0D1117" alt="Details matter"/>
+  <img src="https://img.shields.io/badge/ALWAYS_BUILDING-0D1117?style=flat-square&labelColor=0D1117" alt="Always building"/>
+</p>
+
+<p align="center">
+  <sub>Less noise. More intention. Better execution.</sub>
+</p>
 
 ---
 
-## Selected work
+<!-- CURRENT DIRECTION -->
+<p align="center">
+  <img src="https://img.shields.io/badge/02-CURRENT_DIRECTION-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Current direction"/>
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>NexPlay</h3>
-      <p>
-        <strong>Sports • Automation • Discord</strong>
+      <p align="center">
+        <img src="https://img.shields.io/badge/BUILDING-0D1117?style=flat-square" alt="Building"/>
       </p>
-      A sports broadcasting bot project focused on match updates,
-      live-score presentation, and an immersive match-day experience.
+      <h3 align="center">Software & Systems</h3>
+      <p align="center">
+        Discord bots, automation, Android applications,
+        and modular digital experiences.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/EXPLORING-0D1117?style=flat-square" alt="Exploring"/>
+      </p>
+      <h3 align="center">Creative Direction</h3>
+      <p align="center">
+        Visual identity, interface design, audio,
+        video editing, and digital branding.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- SELECTED PROJECTS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/03-SELECTED_WORK-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Selected work"/>
+</p>
+
+<p align="center">
+  <sub>A collection of things I'm building, shaping, and exploring.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <img src="https://img.shields.io/badge/01-LIVE_SPORTS-0D1117?style=flat-square" alt="Live sports"/>
+      </p>
+      <h3>NexPlay</h3>
+      <p><i>Sports broadcasting · Discord</i></p>
+      A sports bot concept focused on live scores, match presentation,
+      automated updates, and a more immersive match-day experience.
       <br/><br/>
       <a href="https://github.com/v1ped">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D1117?style=flat-square&logo=github&logoColor=white" alt="Explore projects on GitHub"/>
+        <img src="https://img.shields.io/badge/EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore NexPlay"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>CURRUPT</h3>
       <p>
-        <strong>Applications • Product identity</strong>
+        <img src="https://img.shields.io/badge/02-APPLICATIONS-0D1117?style=flat-square" alt="Applications"/>
       </p>
-      A personal product and development brand exploring utility
-      applications, software experiences, and distinctive visual design.
+      <h3>CURRUPT</h3>
+      <p><i>Android · Product design</i></p>
+      A personal product brand exploring useful applications,
+      distinctive visual identities, and thoughtfully designed software.
       <br/><br/>
       <a href="https://github.com/v1ped/Currupt">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=flat-square&logo=github&logoColor=white" alt="CURRUPT repository"/>
+        <img src="https://img.shields.io/badge/REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="CURRUPT repository"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>VΞLOCITY</h3>
       <p>
-        <strong>Studio • Digital systems</strong>
+        <img src="https://img.shields.io/badge/03-STUDIO-0D1117?style=flat-square" alt="Studio"/>
       </p>
-      A developing studio concept for building connected digital
-      products, community tools, and branded experiences.
+      <h3>VΞLOCITY</h3>
+      <p><i>Digital studio · Ecosystem</i></p>
+      A developing studio concept for connected products, community
+      systems, automation, and consistent brand experiences.
       <br/><br/>
       <a href="https://github.com/v1ped/Velocity-Concept">
-        <img src="https://img.shields.io/badge/VIEW_CONCEPT-0D1117?style=flat-square&logo=github&logoColor=white" alt="VΞLOCITY concept repository"/>
+        <img src="https://img.shields.io/badge/EXPLORE_CONCEPT-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="VΞLOCITY concept"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Personal Assistant</h3>
       <p>
-        <strong>Automation • Assistant systems</strong>
+        <img src="https://img.shields.io/badge/04-AUTOMATION-0D1117?style=flat-square" alt="Automation"/>
       </p>
-      An evolving project exploring a more personal and useful
-      assistant experience.
+      <h3>Personal Assistant</h3>
+      <p><i>Assistant systems · Integrations</i></p>
+      An evolving project exploring a more personal assistant experience
+      and practical automation across everyday digital workflows.
       <br/><br/>
       <a href="https://github.com/v1ped/personal-assistant">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=flat-square&logo=github&logoColor=white" alt="Personal Assistant repository"/>
+        <img src="https://img.shields.io/badge/REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Personal Assistant repository"/>
       </a>
     </td>
   </tr>
@@ -115,36 +182,58 @@ have a clear identity rather than unnecessary complexity.
 
 ---
 
-## Tech & tools
+<!-- TECH STACK -->
+<p align="center">
+  <img src="https://img.shields.io/badge/04-TECH_STACK-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <sub>Technologies and tools I work with or explore.</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Discord.js-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord.js"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUDIO_PRODUCTION-0D1117?style=flat-square&logo=audacity&logoColor=white" alt="Audio production"/>
-  <img src="https://img.shields.io/badge/VIDEO_EDITING-0D1117?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="Video editing"/>
-  <img src="https://img.shields.io/badge/VISUAL_DESIGN-0D1117?style=flat-square&logo=figma&logoColor=white" alt="Visual design"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Discord.js-0D1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord.js"/>
+  <img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84" alt="Android"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CREATIVE_TOOLS-0D1117?style=flat-square" alt="Creative tools"/>
+  <img src="https://img.shields.io/badge/AUDIO-0D1117?style=flat-square&logo=audacity&logoColor=white" alt="Audio"/>
+  <img src="https://img.shields.io/badge/VIDEO-0D1117?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="Video"/>
 </p>
 
 ---
 
-## GitHub activity
+<!-- GITHUB ACTIVITY -->
+<p align="center">
+  <img src="https://img.shields.io/badge/05-GITHUB_ACTIVITY-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="GitHub activity"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/v1ped?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+</p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=v1ped&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=8B949E"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=v1ped&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9B8AFB"
+    width="100%"
     alt="GitHub statistics"
   />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ped&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E"
-    height="165"
-    alt="Most used languages on GitHub"
+    alt="Most used languages"
   />
 </p>
 
@@ -152,13 +241,38 @@ have a clear identity rather than unnecessary complexity.
   <img
     src="https://raw.githubusercontent.com/v1ped/v1ped/output/github-contribution-grid-snake-dark.svg"
     width="100%"
-    alt="GitHub contribution animation"
+    alt="Contribution graph animation"
   />
 </p>
 
 ---
 
-## Elsewhere
+<!-- PERSONAL SIDE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/06-BEYOND_THE_CODE-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Beyond the code"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VISUAL_DESIGN-0D1117?style=flat-square" alt="Visual design"/>
+  <img src="https://img.shields.io/badge/MUSIC-0D1117?style=flat-square" alt="Music"/>
+  <img src="https://img.shields.io/badge/EDITING-0D1117?style=flat-square" alt="Editing"/>
+  <img src="https://img.shields.io/badge/DIGITAL_AESTHETICS-0D1117?style=flat-square" alt="Digital aesthetics"/>
+</p>
+
+<p align="center">
+  <i>Some things are built with code. Others are built with taste.</i>
+</p>
+
+<p align="center">
+  <sub>Currently building my own corner of the digital world.</sub>
+</p>
+
+---
+
+<!-- CONNECT -->
+<p align="center">
+  <img src="https://img.shields.io/badge/07-CONNECT-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Connect"/>
+</p>
 
 <p align="center">
   <a href="https://t.me/wespathy">
@@ -167,12 +281,19 @@ have a clear identity rather than unnecessary complexity.
   <a href="https://www.instagram.com/v1oct/">
     <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://github.com/v1ped">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-  <sub>Build with intention. Keep it simple. Make it matter.</sub>
+  <sub>For collaborations, ideas, or just a good conversation.</sub>
 </p>
 
+<br/>
+
 <p align="center">
+  <samp>BUILD WITH INTENTION.</samp>
+  <br/>
   <sub>© v1ped</sub>
 </p>
