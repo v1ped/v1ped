@@ -1,164 +1,178 @@
-<!-- BANNER -->
+
+<!-- ================================================== -->
+<!-- V1PED • PERSONAL DEVELOPER PROFILE                  -->
+<!-- ================================================== -->
+
+<!-- HEADER -->
 <p align="center">
-  <a href="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg1b8f7ef7c9e41fc1183339b2a9180c65377">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg" alt="Header Banner" width="100%" />
-  </a>
+  <img
+    src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg"
+    width="100%"
+    alt="A quiet, cinematic workspace"
+  />
 </p>
 
-<!-- DISCORD PRESENCE BANNER (REPLACES HELLO HEADER) -->
+<p align="center">
+  <a href="https://github.com/v1ped">
+    <img
+      src="https://img.shields.io/badge/GITHUB-v1ped-0D1117?style=flat-square&logo=github&logoColor=white"
+      alt="GitHub profile"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/BASED_ON-CURIOSITY-0D1117?style=flat-square&labelColor=0D1117"
+    alt="Driven by curiosity"
+  />
+</p>
+
+<!-- DISCORD PRESENCE -->
 <p align="center">
   <a href="https://discord.com/users/1184507881614225469">
-    <img src="https://lanyard.cnrad.dev/api/1184507881614225469?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Presence" width="100%" />
+    <img
+      src="https://lanyard.cnrad.dev/api/1184507881614225469?theme=dark&bg=0D1117&animated=true&hideDiscrim=true"
+      width="100%"
+      alt="Discord presence"
+    />
   </a>
 </p>
 
-<br/>
+---
 
-<hr />
+## About
 
-<br/>
+I'm a developer and creative builder interested in the intersection
+of software, automation, design, and online communities.
 
-<!-- ABOUT ME WITH RIGHT-ALIGNED PFP -->
+I build things to make digital experiences more useful, expressive,
+and thoughtfully designed — from Discord bots and community systems
+to Android applications.
+
+I value deliberate design, clean architecture, and projects that
+have a clear identity rather than unnecessary complexity.
+
+- **Currently building:** NexPlay, a sports-focused Discord bot.
+- **Exploring:** Android development, automation, and application architecture.
+- **Creative interests:** Visual design, audio editing, video editing, and digital branding.
+
+---
+
+## Selected work
+
 <table>
   <tr>
-    <td valign="top" width="70%">
-      <br/>
-<p align="center">
-      <h3>🟪 About me</h3>
-      <p>I am a <b>Bot Developer</b> and <b>Community Architect</b> specialized in creating custom, high-performance automated tools across <b>Discord</b> and <b>Telegram</b>.</p>
-      <p>I work from <b>bot architecture to community management</b>, prioritizing <b>clean code, real-time broadcasting, and user engagement</b>.</p>
-      <ul>
-        <li>⚽ <b>Featured Service — NexPlay:</b> A live sports broadcasting bot built for Discord (expanding to Telegram).</li>
-        <li>🛡️ <b>Community Architect:</b> Specialized in setting up, structuring, and moderating active Discord communities.</li>
-        <li>🎬 <b>Media Production:</b> Sound designer and video editor focused on AMVs and creative audio/video production.</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>NexPlay</h3>
+      <p>
+        <strong>Sports • Automation • Discord</strong>
+      </p>
+      A sports broadcasting bot project focused on match updates,
+      live-score presentation, and an immersive match-day experience.
+      <br/><br/>
+      <a href="https://github.com/v1ped">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D1117?style=flat-square&logo=github&logoColor=white" alt="Explore projects on GitHub"/>
+      </a>
     </td>
-    <td align="center" valign="middle" width="30%">
-      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*uqKapKinwX2-JHpSf8Xu6Q@2x.jpeg" width="160" style="border-radius: 50%;" alt="Profile Picture" />
+    <td width="50%" valign="top">
+      <h3>CURRUPT</h3>
+      <p>
+        <strong>Applications • Product identity</strong>
+      </p>
+      A personal product and development brand exploring utility
+      applications, software experiences, and distinctive visual design.
+      <br/><br/>
+      <a href="https://github.com/v1ped/Currupt">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=flat-square&logo=github&logoColor=white" alt="CURRUPT repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>VΞLOCITY</h3>
+      <p>
+        <strong>Studio • Digital systems</strong>
+      </p>
+      A developing studio concept for building connected digital
+      products, community tools, and branded experiences.
+      <br/><br/>
+      <a href="https://github.com/v1ped/Velocity-Concept">
+        <img src="https://img.shields.io/badge/VIEW_CONCEPT-0D1117?style=flat-square&logo=github&logoColor=white" alt="VΞLOCITY concept repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Personal Assistant</h3>
+      <p>
+        <strong>Automation • Assistant systems</strong>
+      </p>
+      An evolving project exploring a more personal and useful
+      assistant experience.
+      <br/><br/>
+      <a href="https://github.com/v1ped/personal-assistant">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=flat-square&logo=github&logoColor=white" alt="Personal Assistant repository"/>
+      </a>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<hr />
-
-<br/>
-
-<p align="right">
-  <!-- Staff (Wrench) -->
-  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
-    <img src="https://api.iconify.design/lucide:wrench.svg?color=%235865f2" width="28" height="28" alt="Staff" />
-  </span>
-  <!-- Helper (Lightbulb) -->
-  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
-    <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23ffaa00" width="28" height="28" alt="Helper" />
-  </span>
-  <!-- Premium (Gem) -->
-  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
-    <img src="https://api.iconify.design/lucide:gem.svg?color=%239900ff" width="28" height="28" alt="Premium" />
-  </span>
-  <!-- Verified (Check Circle) -->
-  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
-    <img src="https://api.iconify.design/material-symbols:verified-rounded.svg?color=%2300a2ff" width="28" height="28" alt="Verified" />
-  </span>
-  <!-- Donor (Dollar) -->
-  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
-    <img src="https://api.iconify.design/ph:currency-dollar-simple-bold.svg?color=%2300ff66" width="28" height="28" alt="Donor" />
-  </span>
-  <!-- OG (Gold Crown) -->
-  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
-    <img src="https://api.iconify.design/ph:crown-fill.svg?color=%23ffd700" width="28" height="28" alt="OG" />
-  </span>
-  <!-- Server Booster (Flame) -->
-  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
-    <img src="https://api.iconify.design/lucide:flame.svg?color=%23ff4500" width="28" height="28" alt="Server Booster" />
-  </span>
-</p>
-
-<br/>
-
-<hr />
-
-#### ◆ Bot Engineering & Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/DISCORD.JS-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-  <img src="https://img.shields.io/badge/TELEGRAM_API-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-</p>
-
-#### ◆ Creative & Media
-<p align="center">
-  <img src="https://img.shields.io/badge/AUDIO_EDITING-0D1117?style=for-the-badge&logo=audacity&logoColor=EE0000" />
-  <img src="https://img.shields.io/badge/VIDEO_EDITING-0D1117?style=for-the-badge&logo=adobe-after-effects&logoColor=9999FF" />
-</p>
-
-<br/>
-
-<hr />
-
-<br/>
-
+## Tech & tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&height=50&lines=%22you%20pleased%20me%20with%20your%20body%2C%20i%20should%20pay%20you%20for%20that.%22;%E2%80%94%20a%20wise%20man" alt="Custom Quote" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Discord.js-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord.js"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AUDIO_PRODUCTION-0D1117?style=flat-square&logo=audacity&logoColor=white" alt="Audio production"/>
+  <img src="https://img.shields.io/badge/VIDEO_EDITING-0D1117?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="Video editing"/>
+  <img src="https://img.shields.io/badge/VISUAL_DESIGN-0D1117?style=flat-square&logo=figma&logoColor=white" alt="Visual design"/>
+</p>
 
-<hr />
+---
 
-<br/>
-
+## GitHub activity
 
 <p align="center">
-  <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31w2pnxivwnnyyznsezbd6ahy5ay" alt="Data Card for Spotify">
-  </a>" peace.
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=v1ped&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=8B949E"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ped&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E"
+    height="165"
+    alt="Most used languages on GitHub"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/v1ped/v1ped/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub contribution animation"
+  />
+</p>
+
+---
+
+## Elsewhere
+
+<p align="center">
+  <a href="https://t.me/wespathy">
+    <img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.instagram.com/v1oct/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<br/>
-
-<hr />
-
-<br/>
-
-
 <p align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1oct/v1oct/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
-<br/>
-
-<hr />
-
-<br/>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v1oct&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api?username=v1oct&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
+  <sub>Build with intention. Keep it simple. Make it matter.</sub>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=v1oct&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="Streak Stats" />
+  <sub>© v1ped</sub>
 </p>
-
-<br/>
-
-<hr />
-
-<br/>
-
-
-<p align="center">
-  <a href="https://t.me/wespathy"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/9163552233"><img src="https://img.shields.io/badge/WHATSAPP-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.instagram.com/v1oct?igsh=M2owNGF5Z3JhaGxq"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<br/>
-
-<hr />
